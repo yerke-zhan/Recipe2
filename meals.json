@@ -1,0 +1,115 @@
+{
+  "meals": [
+    {
+      "idMeal": "53061",
+      "strMeal": "Fresh Sardines",
+      "strCategory": "Side",
+      "strArea": "Croatian",
+      "strInstructions": "Wash the fish under the cold tap. Roll in the flour and deep fry in oil until crispy. Lay on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/nv5lf31628771380.jpg",
+      "strTags": "Fresh",
+      "strTime": "20 min",
+      "strCalories": "140 kcal"
+    },
+    {
+      "idMeal": "52796",
+      "strMeal": "Chicken Alfredo",
+      "strCategory": "Main",
+      "strArea": "Italian",
+      "strInstructions": "Cook the pasta and set aside. In a pan, melt butter, add garlic, and cook chicken. Stir in cream and Parmesan cheese. Mix with pasta and serve hot.",
+      "strMealThumb": "https://www.justspices.co.uk/media/recipe/chicken-alfredo.jpg",
+      "strTags": "Creamy",
+      "strTime": "30 min",
+      "strCalories": "600 kcal"
+    },
+    {
+      "idMeal": "53013",
+      "strMeal": "Beef Stroganoff",
+      "strCategory": "Main",
+      "strArea": "Russian",
+      "strInstructions": "Slice beef into strips, sauté in butter, add onions and mushrooms, and cook with sour cream. Serve over egg noodles or rice.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+      "strTags": "Savory",
+      "strTime": "35 min",
+      "strCalories": "550 kcal"
+    },
+    {
+      "idMeal": "52777",
+      "strMeal": "Tuna Nicoise Salad",
+      "strCategory": "Salad",
+      "strArea": "French",
+      "strInstructions": "Combine tuna, boiled eggs, green beans, tomatoes, and olives with a simple vinaigrette. Serve chilled.",
+      "strMealThumb": "https://www.thespruceeats.com/thmb/F4uUTMfMUgpCuFS01P2B4wYGJI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nicoise-style-tuna-salad-dijon-dressing-3056856-hero-01-850d4a8529fc45bdb9d12192a4af618b.jpg",
+      "strTags": "Healthy",
+      "strTime": "25 min",
+      "strCalories": "320 kcal"
+    },
+    {
+      "idMeal": "52929",
+      "strMeal": "Spaghetti Carbonara",
+      "strCategory": "Pasta",
+      "strArea": "Italian",
+      "strInstructions": "Cook spaghetti, then mix with eggs, cheese, pancetta, and black pepper. Serve immediately.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+      "strTags": "Classic",
+      "strTime": "20 min",
+      "strCalories": "550 kcal"
+    },
+    {
+      "idMeal": "52897",
+      "strMeal": "Grilled Salmon",
+      "strCategory": "Main",
+      "strArea": "American",
+      "strInstructions": "Season salmon with salt, pepper, and lemon. Grill until cooked through. Serve with vegetables or rice.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+      "strTags": "Healthy",
+      "strTime": "30 min",
+      "strCalories": "400 kcal"
+    },
+    {
+      "idMeal": "52954",
+      "strMeal": "Vegetable Stir Fry",
+      "strCategory": "Vegetarian",
+      "strArea": "Asian",
+      "strInstructions": "Sauté mixed vegetables in sesame oil with garlic and soy sauce. Serve with rice or noodles.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+      "strTags": "Vegan",
+      "strTime": "15 min",
+      "strCalories": "280 kcal"
+    },
+    {
+      "idMeal": "52955",
+      "strMeal": "Avocado Toast",
+      "strCategory": "Vegetarian",
+      "strArea": "Healthy",
+      "strInstructions": "Fresh avocado served on toasted whole-grain bread with a sprinkle of red pepper flakes and a drizzle of olive oil.",
+      "strMealThumb": "images/avocado.jpg",
+      "strTags": "Vegan",
+      "strTime": "15 min",
+      "strCalories": "280 kcal",
+      "preparation": "Toast the bread, then mash the avocado and spread it on top. Sprinkle red pepper flakes and drizzle with olive oil."
+    },
+    {
+      "idMeal": "52956",
+      "strMeal": "Greek Yogurt Parfait",
+      "strCategory": "Vegetarian",
+      "strArea": "Healthy",
+      "strInstructions": "Layer Greek yogurt with fresh berries and granola, then drizzle honey on top.",
+      "strMealThumb": "images/greek-yogurt-parfait.jpg",
+      "strTags": "Vegan",
+      "strTime": "15 min",
+      "strCalories": "280 kcal"
+    },
+    {
+      "idMeal": "52957",
+      "strMeal": "Oatmeal with Berries",
+      "strCategory": "Vegetarian",
+      "strArea": "Healthy",
+      "strInstructions": "Creamy oatmeal topped with a variety of fresh berries and a dollop of whipped cream. Cook oatmeal and top with fresh berries and whipped cream.",
+      "strMealThumb": "images/oatmeal-with-berries.jpg",
+      "strTags": "Vegan",
+      "strTime": "15 min",
+      "strCalories": "280 kcal"
+    }
+  ]
+}

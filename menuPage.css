@@ -1,0 +1,225 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+.header {
+    display: flex;
+    background-image:url('https://www.shutterstock.com/image-photo/raw-salmon-fillet-cooking-ingredients-260nw-274746884.jpg');
+    padding: 20px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+   
+    
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    margin-top: 30px;
+    
+}
+
+#breakfast-menu {
+    padding: 20px;
+}
+
+#meal-list {
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+#meal-list div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+}
+
+#meal-list div:hover {
+    background-color: #ddd;
+}
+
+#meal-details {
+    margin: 20px;
+
+
+}
+
+#meal-details img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+.fix{
+    width: 300px;
+
+}
+
+
+
+#menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.menu-item {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    width: calc(20% - 40px);
+    text-align: center;
+}
+
+.menu-item img {
+    max-width: 100%;
+    /* height: auto; */
+    border-radius: 5px;
+}
+
+.menu-item h3 {
+    margin: 10px 0;
+    font-size: 1.5em;
+}
+
+.menu-item p {
+    margin: 10px 0;
+    font-size: 1em;
+    
+}
+
+#gallery-items{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(4,350px);
+    width: 80%;
+    margin: 50px auto;
+    gap: 7px;
+}
+
+.img-gallery {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.img-gallery:hover{
+    opacity: 0.7;
+}
+
+.img-gallery:nth-child(4){
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+.img-gallery:last-child{
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+.img-gallery:nth-child(7){
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 4;
+    grid-row-end: 7;
+}
+
+footer {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/054/280/411/small_2x/appetizing-food-arrangement-with-blank-space-photo.jpg");
+    color: rgba(7, 7, 7, 0.805);
+    text-align: center;
+    padding: 20px 20px;
+    
+    background-size: cover;
+    background-position: center;
+    margin-top: 100px;
+    
+}
+
+.social-media-links a {
+    color: rgba(37, 83, 176, 0.926);
+    margin: 0 10px;
+    text-decoration: none;
+    
+}
+.social-media-links a:hover {
+    color: #0f0f0fca;
+}
+
+.App {
+    
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f9;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+    }
+#app {
+    
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    text-align: center;
+    
+}
+
+#recipe-form, #recipe-list {
+    margin-bottom: 20px;
+}
+
+input, textarea, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #e9ecef;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+} 
+
+
+
+
+

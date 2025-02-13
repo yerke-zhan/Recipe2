@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="menuPage.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Welcome to iFoody</h1>  
+    </header>
+    
+    <main>
+       
+        <section class="search">
+            <input type="search" placeholder="Search for dish..." id="search-input">
+            <div id="meal-list"></div> 
+            <button id="search-button">Search</button> 
+        </section>
+        
+        <section id="meal-details" style="display:none;">
+            <div class="fix"> 
+            <img id="meal-thumb" alt="Meal Image">
+            <h2 id="meal-name"></h2>
+            <p id="meal-category"></p>
+            <p id="meal-area"></p>
+            <p id="meal-instructions"></p>
+            <p id="meal-time"></p>
+            <p id="meal-calories"></p>
+        </div>
+        </section>
+        
+        <section class="menu" id="breakfast-menu">
+            <h2>Breakfast Menu</h2>
+            <div id="menu-items">
+                
+                
+            </div>
+        </section>
+        <section class="gallery">
+            <h2>Gallery</h2>
+            <div id="gallery-items">
+                
+            </div>
+        </section>
+
+        <section class="App"> 
+        <div id="app">
+            
+            <div id="recipe-form">
+                <h2>Add a New Recipe</h2>
+                <input type="text" id="recipe-name" placeholder="Recipe Name">
+                <textarea id="recipe-ingredients" placeholder="Ingredients (one per line)"></textarea>
+                <textarea id="recipe-instructions" placeholder="Instructions"></textarea>
+                <button id="add-recipe">Add Recipe</button>
+            </div>
+            <div id="recipe-list">
+                <h2>Your Recipe List</h2>
+                <ul id="recipes"></ul>
+            </div>
+        </div>
+    </section>
+    </main>
+    <footer>
+        <p>Contact Us:</p>
+        <p>Email: contact@ifoody.com</p>
+        <p>Phone: +1234567890</p>
+        <div class="social-media-links">
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Instagram</a>
+        </div>
+    </footer>
+    <script src="menuPage.js"></script>
+</body>
+</html>

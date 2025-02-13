@@ -83,7 +83,7 @@
       "strCategory": "Vegetarian",
       "strArea": "Healthy",
       "strInstructions": "Fresh avocado served on toasted whole-grain bread with a sprinkle of red pepper flakes and a drizzle of olive oil.",
-      "strMealThumb": "images/avocado.jpg",
+      "strMealThumb": "avocado.jpg",
       "strTags": "Vegan",
       "strTime": "15 min",
       "strCalories": "280 kcal",
@@ -95,7 +95,7 @@
       "strCategory": "Vegetarian",
       "strArea": "Healthy",
       "strInstructions": "Layer Greek yogurt with fresh berries and granola, then drizzle honey on top.",
-      "strMealThumb": "images/greek-yogurt-parfait.jpg",
+      "strMealThumb": "greek-yogurt-parfait.jpg",
       "strTags": "Vegan",
       "strTime": "15 min",
       "strCalories": "280 kcal"
@@ -106,7 +106,7 @@
       "strCategory": "Vegetarian",
       "strArea": "Healthy",
       "strInstructions": "Creamy oatmeal topped with a variety of fresh berries and a dollop of whipped cream. Cook oatmeal and top with fresh berries and whipped cream.",
-      "strMealThumb": "images/oatmeal-with-berries.jpg",
+      "strMealThumb": "oatmeal-with-berries.jpg",
       "strTags": "Vegan",
       "strTime": "15 min",
       "strCalories": "280 kcal"
